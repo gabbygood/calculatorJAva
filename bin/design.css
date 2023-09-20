@@ -1,0 +1,60 @@
+.main {
+  -fx-background-color: transparent;
+}
+
+.card {
+  -fx-background-color: linear-gradient(to bottom right, #133657, #164d26);
+  -fx-background-radius: 15px;
+}
+
+.menubar-container {
+  -fx-background-radius: 15px;
+}
+
+.scene-two-bg {
+  -fx-background-color: gray;
+}
+
+.btn-color {
+  -fx-background-color: gray;
+}
+
+.key-result {
+  -fx-background-color: linear-gradient(
+    to bottom right,
+    rgba(53, 117, 160, 0.3),
+    rgba(4, 133, 73, 0.3)
+  );
+  -fx-background-radius: 20px;
+  -fx-text-fill: #fff;
+  -fx-font-size: 20px;
+  -fx-padding: 10px 15px 5px 15px;
+}
+
+.prevnum {
+  -fx-font-size: 15px;
+  -fx-text-fill: #fff;
+}
+
+.keypad {
+  -fx-background-color: rgba(0, 130, 133, 0.1);
+  -fx-background-radius: 0px;
+  -fx-text-fill: #fff;
+  -fx-font-size: 30px;
+  -fx-cursor: hand;
+}
+
+.keypad:hover {
+  -fx-background-color: rgba(140, 0, 143, 0.3);
+}
+
+.clear {
+  -fx-background-color: rgb(255, 0, 0);
+  -fx-cursor: hand;
+  -fx-text-fill: #fff;
+  -fx-font-size: 20px;
+}
+
+.clear:hover {
+  -fx-background-color: rgba(0, 130, 133, 0.1);
+}
