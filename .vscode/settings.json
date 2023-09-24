@@ -4,16 +4,16 @@
   "java.project.referencedLibraries": {
     "include": [
       "lib/**/*.jar",
-      "e:\\MyFiles\\Calculator\\Calculator\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\javafx.base.jar",
-      "e:\\MyFiles\\Calculator\\Calculator\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\javafx.controls.jar",
-      "e:\\MyFiles\\Calculator\\Calculator\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\javafx.fxml.jar",
-      "e:\\MyFiles\\Calculator\\Calculator\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\javafx.graphics.jar",
-      "e:\\MyFiles\\Calculator\\Calculator\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\javafx.media.jar",
-      "e:\\MyFiles\\Calculator\\Calculator\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\javafx.swing.jar"
+      "c:\\Users\\Goylan Family\\Desktop\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\javafx.base.jar",
+      "c:\\Users\\Goylan Family\\Desktop\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\javafx-sdk-20.0.2\\lib\\javafx.controls.jar",
+      "c:\\Users\\Goylan Family\\Desktop\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\javafx.fxml.jar",
+      "c:\\Users\\Goylan Family\\Desktop\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\javafx.graphics.jar",
+      "c:\\Users\\Goylan Family\\Desktop\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\javafx.media.jar",
+      "c:\\Users\\Goylan Family\\Desktop\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\javafx.swing.jar"
     ],
     "exclude": [
-      "e:\\MyFiles\\Calculator\\Calculator\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\\\javafx-swt.jar",
-      "e:\\MyFiles\\Calculator\\Calculator\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\\\javafx.web.jar"
+      "c:\\Users\\Goylan Family\\Desktop\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\javafx-swt.jar",
+      "c:\\Users\\Goylan Family\\Desktop\\JAVAFX Calculator\\lib\\javafx-sdk-20.0.2\\lib\\javafx.web.jar"
     ]
   }
 }
